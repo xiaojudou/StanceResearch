@@ -25,3 +25,6 @@ A paper &amp; data list of research about stance in NLP
 ## Other languages
 * Russian [link](https://github.com/lozhn/rustance)
 * Turkish [link](https://github.com/dkucuk/Stance-Detection-Turkish-V3)
+* Chinese [link](http://tcci.ccf.org.cn/conference/2016/pages/page05_evadata.html)
+
+
