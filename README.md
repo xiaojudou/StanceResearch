@@ -30,6 +30,7 @@ A paper &amp; data list of research about stance in NLP
 ### Paper with new dataset but no link found
 * Stance Classification of Twitter Debates: The Encryption Debate as A Use Cas [link](https://dl.acm.org/citation.cfm?doid=3097286.3097288)
 * Using Author Embeddings to Improve Tweet Stance Classification [link](http://www.cs.jhu.edu/~mdredze/publications/2018_benton_wnut.pdf)
+* Cross-Target Stance Classification with Self-Attention Networks [link](http://aclweb.org/anthology/P18-2123)
 
 # Paper List
 * From Stances’ Imbalance to their Hierarchical Representation and Detection WWW19
