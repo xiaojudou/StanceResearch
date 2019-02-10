@@ -6,6 +6,7 @@ A paper &amp; data list of research about stance in NLP
 ### Forums
 * CreateDebate.com [link](http://www.hlt.utdallas.edu/~saidul/stance/stance.html)
 * 4forums.com [link](https://nlds.soe.ucsc.edu/iac2)
+* Convinceme.net
 
 ### Claim
 * IBM [link](http://www.research.ibm.com/haifa/dept/vst/debating_data.shtml#Claim%20Stance)
