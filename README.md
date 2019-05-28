@@ -34,6 +34,6 @@ A paper &amp; data list of research about stance in NLP
 * Using Author Embeddings to Improve Tweet Stance Classification [link](http://www.cs.jhu.edu/~mdredze/publications/2018_benton_wnut.pdf)
 * Cross-Target Stance Classification with Self-Attention Networks [link](http://aclweb.org/anthology/P18-2123)
 
-# Paper List
+# Paper List(TODO)
 * From Stances’ Imbalance to their Hierarchical Representation and Detection WWW19
 Qiang Zhang (University College London, United Kingdom); Shangsong Liang (University College London, United Kingdom); Aldo Lipani (University College London, United Kingdom); Zhaochun Ren (JD.com, China); Emine Yilmaz (University College London, United Kingdom)
